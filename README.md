@@ -80,7 +80,7 @@ Descrição breve do projeto.
 <img src="COLE_SEU_GIF_AQUI" width="400px">
 
 <!-- GIF DE TECNOLOGIA -->
-<img src="COLE_SEU_GIF_AQUI" width="400px">
+<img src="https://i.pinimg.com/originals/ab/49/3c/ab493c05bb6c564548ca757358e57c2d.gif" width="400px">
 
 </div>
 
