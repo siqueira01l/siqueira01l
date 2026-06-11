@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- GIF PRINCIPAL -->
-<img src="https://i.pinimg.com/originals/2e/73/92/2e7392bd69172cb64fb648d6a5abb830.gif" width="600px">
+<img src="https://i.pinimg.com/originals/57/8f/63/578f63f9b9c94baf22cdb58a33a1ac7b.gif" width="600px">
 
 </div>
 
