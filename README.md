@@ -43,14 +43,8 @@
 
 ## 📂 Projetos em Destaque
 
-### 🌐 Projeto 1
-Descrição breve do projeto.
-
-### 💻 Projeto 2
-Descrição breve do projeto.
-
-### 🚀 Projeto 3
-Descrição breve do projeto.
+### 🌐 FitPlanner
+FitPlanner é uma aplicação voltada para o planejamento e organização de rotinas fitness, ajudando usuários a gerenciar treinos e acompanhar seus objetivos de forma prática e intuitiva.
 
 ---
 
