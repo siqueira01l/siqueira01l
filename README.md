@@ -54,8 +54,6 @@ Descrição breve do projeto.
 
 ---
 
-## 🎥 Espaço para GIFs
-
 <div align="center">
 
 
