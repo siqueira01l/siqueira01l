@@ -62,11 +62,11 @@ FitPlanner é uma aplicação voltada para o planejamento e organização de rot
 
 <div align="center">
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/arthursiqueira01/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="SEU_GITHUB">
+<a href="https://github.com/siqueira01l">
     <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
