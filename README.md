@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- GIF PRINCIPAL -->
-<img src="COLE_SEU_GIF_AQUI" width="600px">
+<img src="https://i.pinimg.com/originals/2e/73/92/2e7392bd69172cb64fb648d6a5abb830.gif" width="600px">
 
 </div>
 
@@ -25,19 +25,6 @@
 
 </div>
 
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
 
 ## 🔥 Sequência de Contribuições
 
@@ -76,8 +63,6 @@ Descrição breve do projeto.
 
 <div align="center">
 
-<!-- GIF DE PROGRAMAÇÃO -->
-<img src="COLE_SEU_GIF_AQUI" width="400px">
 
 <!-- GIF DE TECNOLOGIA -->
 <img src="https://i.pinimg.com/originals/ab/49/3c/ab493c05bb6c564548ca757358e57c2d.gif" width="400px">
