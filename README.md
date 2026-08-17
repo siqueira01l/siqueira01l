@@ -5,7 +5,7 @@
 ## 🚀 Sobre mim
 
 🎓 Estudante de **Ciência da Computação** no **CESAR School**  
-📚 Atualmente no **1º período**  
+📚 Atualmente no **2º período**  
 🎂 Tenho **18 anos**  
 💻 Apaixonado por tecnologia, programação e desenvolvimento de software  
 🌱 Sempre buscando aprender novas tecnologias e evoluir como desenvolvedor
